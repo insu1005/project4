@@ -1,5 +1,6 @@
 /* Insu Song reset style 2023 version*/
-html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p,
+/* h1 magin 0 fullpage sliide error so i except h1 from reset */
+html, body, span, object, iframe,
 blockquote, pre, a, address, em, img, strong, var, b, i, dl, dt, dd,
 ol, ul, li, fieldset, form, label, legend, article, aside, figure,
 figcaption, footer, header, hgroup, menu, nav, section, audio, video {
@@ -32,6 +33,7 @@ nav, section {
 
 body {
   line-height: 1;
+  height: 100%;
 }
 
 ol, ul {
